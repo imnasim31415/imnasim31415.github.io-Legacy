@@ -23,7 +23,7 @@ Exploring the possibilities these technologies offer is both exhilarating and re
 ## 🌟 Leadership and Contributions
 
 In addition to my studies, I have had the privilege of being part of various impactful initiatives:
-- At **Jahangirnagar University**, I served as an **Executive Member** at the [JU Computer Club](https://www.facebook.com/juniv.cc), where I collaborated with the media team to successfully host **CSE Fest - 2019**. 🎉
+- At **Jahangirnagar University**, I served as an **Executive Member** at the [JU Computer Club](https://www.facebook.com/jucomputerclub), where I collaborated with the media team to successfully host **CSE Fest - 2019**. 🎉
 - I was also a proud member of the organizing team for **NCPC - 2023**, where I took charge of the cultural segment and media coverage. 📸
 
 ---
