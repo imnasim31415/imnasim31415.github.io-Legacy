@@ -6,10 +6,6 @@ description: >-
 date: 2020-08-23 20:55:00 +0800
 categories: [tech blogs]
 tags: [browser, tech, blog]
-permalink: chrome_vs_edge
-image:
-  path: assets\img\post_content\chrome vs edge.webp
-author: Nasim Hossain
 ---
 
 
