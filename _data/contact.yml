@@ -14,8 +14,6 @@
 - type: email
   icon: "fas fa-envelope"
   url: "imnasim31415@gmail.com"
-  noblank: true # open link in current tab
-
 #- type: rss
 #  icon: "fas fa-rss"
 #  noblank: true
