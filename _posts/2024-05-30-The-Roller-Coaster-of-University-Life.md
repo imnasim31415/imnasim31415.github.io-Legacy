@@ -1,6 +1,6 @@
 ---
 title: "From Chaos to Clarity: My Five-Year Journey at JU"
-
+description: "After five memorable years at JU, my journey that began after HSC in 2017 has come to an end."
 date: 2024-05-30 20:55:00 +0800
 categories: [University,Education, personal Reflections]
 tags: [University, CSE, Graduation, JU, Personal Growth]

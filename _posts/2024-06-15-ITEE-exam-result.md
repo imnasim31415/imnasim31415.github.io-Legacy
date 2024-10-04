@@ -1,5 +1,6 @@
 ---
 title: "Secured 6th Position in the BD-ITEC FE Exam!"
+description: "I’m excited to announce that I passed the Level-2: Fundamental IT Engineer (FE) exam at BD-ITEC, securing the 6th position! This is a major milestone in my IT journey."
 
 date: 2024-06-15 20:55:00 +0800
 categories: [Career Achievements, Certifications, Engineering]

@@ -1,6 +1,8 @@
 ---
 title: Speeding Up Python Code Tips and Tricks for Faster Performance
 
+description: " Explore essential tips, libraries, and techniques to speed up your Python code for competitive programming and data-intensive tasks."
+
 date: 2024-09-17 20:55:00 +0800
 categories: [tech blogs, python, code]
 tags: [tech, python, code, opimization]
