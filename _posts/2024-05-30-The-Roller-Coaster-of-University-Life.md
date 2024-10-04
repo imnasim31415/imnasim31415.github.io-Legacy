@@ -14,7 +14,7 @@ author: Nasim Hossain
 
 Well, the journey that started after my HSC in 2017 has finally come to an end. Five years and three months, to be specific. It's been one heck of a roller coaster ride. There were moments when I felt so blessed to be at JU, and other times I felt cursed by the chaos it put me through.
 
-![Orientation day] (assets/img/post_content/orientation.jpg)
+
 
 The first year was full of memories, though I feel awkward about most of them now. I was too blind to see things clearly. I was too busy getting myself involved in almost everything and everywhere. Then Covid happened. It truly helped me come to terms with reality. Whatever that was, I genuinely cherish those days and wish I could start them all over again.
 
