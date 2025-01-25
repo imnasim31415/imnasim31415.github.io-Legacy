@@ -1,9 +1,9 @@
 ---
-title: Who will be your default Browser? Google Chrome or Microsoft Edge?
+title: Your default Browser? Google Chrome or Microsoft Edge?
 description: >- 
     Comparison between two popular browser
 
-date: 2020-08-23 20:55:00 +0800
+date: 2020-03-23 20:55:00 +0800
 categories: [tech blogs]
 tags: [browser, tech, blog]
 permalink: chrome_vs_edge
