@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Nasim Hossain
 
 **Computer Science Graduate | Junior Software Engineer | Competitive Programming Enthusiast**
