@@ -8,7 +8,7 @@ categories: [career, recruitment, guides]
 tags: [career, recruitment process, software engineer, DSi, interview tips]
 permalink: dsi_hiring_guide
 image:
-  path: assets/img/post_content/dsi_hiring_process.png
+  path: assets/img/post_content/dsi.jpg
 author: Nasim Hossain
 ---
 
