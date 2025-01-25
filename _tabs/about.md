@@ -1,31 +1,44 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
+# Nasim Hossain
 
-# 👋 Hello! I am Nasim Hossain
+**Computer Science Graduate | Junior Software Engineer | Competitive Programming Enthusiast**
 
-I am currently pursuing my **Engineering degree in Computer Science** from [Jahangirnagar University](https://www.juniv.edu/). I am deeply passionate about **Competitive Programming** and problem-solving, having tackled over **2500+ problems** across various platforms. Constantly curious about emerging technologies and devices, I am dedicated to enhancing my problem-solving skills. 💡
-
-## 🎓 Teaching and Mentoring
-
-I am currently serving as a **Programming Instructor** for my department, where I mentor junior students from the **CSE Department** and **IIT Department** on **Data Structures and Algorithms**. I organize programming contests and curate challenging problem sets for them. Teaching and engaging with fellow enthusiasts is something I find immensely fulfilling. 🧑‍🏫
-
-## 🚀 Exciting Projects
-
-Currently, I’m immersed in several exciting projects:
-- Actively working on **Django projects**.
-- Delving into the fascinating world of **Machine Learning**. 🤖
-
-Exploring the possibilities these technologies offer is both exhilarating and rewarding.
-
-## 🌟 Leadership and Contributions
-
-In addition to my studies, I have had the privilege of being part of various impactful initiatives:
-- At **Jahangirnagar University**, I served as an **Executive Member** at the [JU Computer Club](https://www.facebook.com/jucomputerclub), where I collaborated with the media team to successfully host **CSE Fest - 2019**. 🎉
-- I was also a proud member of the organizing team for **NCPC - 2023**, where I took charge of the cultural segment and media coverage. 📸
+Hi, I’m Nasim Hossain—a Computer Science graduate from Jahangirnagar University and currently working as a Junior Software Engineer at Dynamic Solution Innovators. My journey in tech has been driven by a profound passion for Competitive Programming and problem-solving, having solved over **2,500 problems** across various platforms. I’m always curious about emerging technologies and dedicated to refining my skills to tackle complex challenges.
 
 ---
 
-Join me on this journey of exploration and learning as we delve deeper into the world of **computer science** and **programming**! 🌐
+## Experience
+
+### **Junior Software Engineer**  
+**Dynamic Solution Innovators**  
+- Currently contributing to software development projects, leveraging my problem-solving skills and technical expertise.
+
+### **Teaching Assistant & Programming Instructor**  
+**Jahangirnagar University**  
+- Mentored juniors in **Data Structures and Algorithms**.  
+- Organized and conducted programming contests to foster a competitive coding culture.  
+
+### **Executive Member**  
+**JU Computer Club**  
+- Contributed to the successful execution of **CSE Fest 2019**.  
+- Managed the cultural segment and media coverage for **NCPC 2023**.  
+
+---
+
+## Skills & Interests
+
+- **Competitive Programming**: Solved **2,500+ problems** on platforms like Codeforces, LeetCode, and others.  
+- **Emerging Technologies**: Passionate about exploring and learning new tech trends.  
+- **Chess Enthusiast**: Enjoy strategizing and playing chess, even if it means occasionally losing to a well-played gambit!  
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science and Engineering**  
+Jahangirnagar University  
+
+---
+
+## Let’s Connect!
+
+Join me as I continue to learn, grow, and explore the ever-evolving world of binaries. Feel free to reach out for collaborations, discussions, or a friendly chess match!
