@@ -35,9 +35,9 @@ While a reference is not mandatory, it can give your application an edge. If you
 
 ### **1️⃣ Written Exam**  
 I received a call for a **written exam** worth **100 marks**, divided as follows:  
-- **Problem Solving:** 35 marks ✍️  
-- **OOP Concepts:** 30 marks 💡  
-- **Database:** 30 marks 🗄️  
+- **Problem Solving:** 45 marks ✍️  
+- **OOP Concepts:** 25 marks 💡  
+- **Database:** 25 marks 🗄️  
 - **Miscellaneous Topics:** 5 marks 🧐  
 
 Here’s a breakdown of the areas to focus on:  
