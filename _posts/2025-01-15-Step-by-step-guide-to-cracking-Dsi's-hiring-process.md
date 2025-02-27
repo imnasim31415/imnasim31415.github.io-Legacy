@@ -11,6 +11,7 @@ image:
   path: assets/img/post_content/dsi.jpg
 author: Nasim Hossain
 ---
+[![Hits](https://hits.sh/imnasim31415.github.io/dsi_hiring_guide.svg?style=plastic&label=View%20Count&color=dd6713&logo=alfred)](https://hits.sh/imnasim31415.github.io/dsi_hiring_guide/)
 
 # 🎉 Step-by-Step Guide to Cracking DSi's Hiring Process 🏆  
 

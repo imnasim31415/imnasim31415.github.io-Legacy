@@ -11,6 +11,8 @@ image:
   path: assets/img/post_content/speedpython.png
 author: Nasim Hossain
 ---
+[![Hits](https://hits.sh/imnasim31415.github.io/speed_up_python_code.svg?style=plastic&label=View%20Count&color=dd6713&logo=alfred)](https://hits.sh/imnasim31415.github.io/speed_up_python_code/)
+
 
 Python is one of the most widely-used programming languages, known for its simplicity, power, and versatility. Whether you're a beginner or an expert, Python is a great choice. Its code is easy to write and execute, making it faster than many other languages for general use. However, when it comes to handling large amounts of data, Python may feel slower, especially if you're familiar with the speed of C/C++.
 
