@@ -9,7 +9,7 @@ image:
   path: assets/img/post_content/ju.jpg
 author: Nasim Hossain
 ---
-
+[![Hits](https://hits.sh/imnasim31415.github.io/from_chaos_to_clarity.svg)](https://hits.sh/imnasim31415.github.io/from_chaos_to_clarity/)
 
 
 Well, the journey that started after my HSC in 2017 has finally come to an end. Five years and three months, to be specific. It's been one heck of a roller coaster ride. There were moments when I felt so blessed to be at JU, and other times I felt cursed by the chaos it put me through.

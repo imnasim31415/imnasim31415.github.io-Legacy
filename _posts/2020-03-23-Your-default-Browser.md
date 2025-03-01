@@ -11,7 +11,7 @@ image:
   path: assets/img/post_content/chromevsedge.jpg
 author: Nasim Hossain
 ---
-
+[![Hits](https://hits.sh/imnasim31415.github.io/chrome_vs_edge.svg)](https://hits.sh/imnasim31415.github.io/chrome_vs_edge/)
 
 > “The only time you are allowed to use Internet Explorer is when you’re downloading Chrome :3 ”
 

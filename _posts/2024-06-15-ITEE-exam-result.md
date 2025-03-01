@@ -10,6 +10,8 @@ image:
   path: assets/img/post_content/itee.png
 author: Nasim Hossain
 ---
+[![Hits](https://hits.sh/imnasim31415.github.io/itee_fe_exam.svg)](https://hits.sh/imnasim31415.github.io/itee_fe_exam/)
+
 
 I am thrilled to announce that I have successfully passed the **Level-2: Fundamental IT Engineer (FE)** exam at **BD-ITEC**, organized by the **Bangladesh Computer Council (BCC)**, and secured the **6th position**! 🎓✨
 
