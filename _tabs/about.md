@@ -6,15 +6,31 @@ order: 4
 
 # Nasim Hossain  
 
-Hi, I’m Nasim Hossain—a Computer Science graduate from Jahangirnagar University 🎓 and currently working as a **Junior Software Engineer** at **Dynamic Solution Innovators** 💻. My journey in tech has been fueled by a passion for **Competitive Programming** and problem-solving, having solved over **2,500 problems** across various platforms 🏆. I’m always curious about emerging technologies 🌐 and dedicated to refining my skills to tackle complex challenges.  
+Hi, I’m **Nasim Hossain**—a **Junior Software Engineer** at **Dynamic Solution Innovators (DSi)** with over **one year of industry experience** 💻. I’ve worked on real-world production environments, where I maintained servers, handled live issues, and ensured system stability and smooth deployments.
+
+I have hands-on experience with **AWS services** such as **EC2, S3, and IAM**, along with **PM2** for process management and production monitoring 🚀. Currently, I’m working as a **Backend Engineer** on an **ASP.NET Core** project, while also diving deep into **DevOps culture**, automation, and **CI/CD pipelines** using tools like **Docker** and **GitHub Actions**.
+
+I’m a certified **RHCSA (Red Hat Certified System Administrator)** 🐧, and I’m actively expanding my cloud knowledge by exploring **Microsoft Azure** ☁️.
+
+Alongside my professional journey, I have a strong background in **Competitive Programming**, having solved **2,500+ problems** across various platforms 🏆—which has shaped my ability to think logically and solve complex engineering challenges efficiently.
+
+Outside of work, you’ll often find me playing chess ♟️—planning strategies, learning from mistakes, and occasionally losing to a well-played gambit!
+
+Join me as I share my journey through **software engineering, DevOps, Linux, and cloud computing** 🚀.
 
 ---
 
 ## 👨‍💻 Experience  
 
 ### **Junior Software Engineer**  
-**Dynamic Solution Innovators**  
-- 🚀 Contributing to software development projects with a focus on problem-solving and technical expertise.  
+**Dynamic Solution Innovators (DSi)**  
+- 🛠️ Worked on production server maintenance and live issue resolution.  
+- ☁️ Hands-on experience with **AWS (EC2, S3, IAM)**.  
+- ⚙️ Used **PM2** for process management and monitoring.  
+- 💻 Currently working as a **Backend Engineer** on an **ASP.NET Core** project.  
+- 🚀 Practicing **DevOps culture** with **CI/CD**, automation, and deployment workflows.  
+- 🐳 Working with **Docker** and **GitHub Actions** for pipeline automation.  
+- ☁️ Exploring **Microsoft Azure** for cloud infrastructure and services.  
 
 ### **Teaching Assistant & Programming Instructor**  
 **Jahangirnagar University**  
@@ -30,9 +46,11 @@ Hi, I’m Nasim Hossain—a Computer Science graduate from Jahangirnagar Univers
 
 ## 🛠️ Skills & Interests  
 
-- **Competitive Programming**: Solved **2,500+ problems** on platforms like Codeforces, LeetCode, and more 💡.  
-- **Emerging Technologies**: Passionate about exploring new tech trends 🚀.  
-- **Chess Enthusiast**: Enjoy strategizing and playing chess ♟️—sometimes losing to a sneaky gambit!  
+- **Backend Development**: ASP.NET Core, software engineering best practices 💻  
+- **DevOps & Linux**: RHCSA, Docker, CI/CD, GitHub Actions, automation 🐧  
+- **Cloud**: AWS (EC2, S3, IAM), exploring Azure ☁️  
+- **Competitive Programming**: Solved **2,500+ problems** across multiple platforms 🏆  
+- **Chess Enthusiast**: Strategy, patience, and calculated risk ♟️  
 
 ---
 
@@ -45,4 +63,4 @@ Jahangirnagar University
 
 ## 🤝 Let’s Connect!  
 
-Join me as I continue to learn, grow, and explore the ever-evolving world of binaries 💻. Feel free to reach out for collaborations, discussions, or even a friendly chess match! ♟️
+Feel free to reach out for collaborations, discussions, DevOps/cloud talks, or even a friendly chess match ♟️  
